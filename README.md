@@ -10,6 +10,7 @@ I am Roberto Scardigno, currently pursuing my master's degree in Biomedical engi
 ![R](https://img.shields.io/badge/-R-181717?style=flat-square&logo=R)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%20-blue?style=flat-square)
 ![LabVIEW](https://img.shields.io/badge/-LabVIEW-yellow?style=flat-square&logo=LabVIEW&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-green?style=flat-square&logo=Unity)
 ![C#](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=C%20Sharp)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=WordPress)
