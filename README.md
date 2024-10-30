@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/roberto722/roberto722/master/wave.gif" width="30px">
 
-I am Roberto Scardigno, currently pursuing my master's degree in Biomedical engineering from [Politecnico di Bari](https://www.poliba.it/). I am a tech enthusiast. I like to think myself as a bridge :bridge_at_night: between tech :computer: and medicine :microscope:. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Roberto Scardigno, currently pursuing a PhD in Biomedical engineering from [Politecnico di Bari](https://www.poliba.it/). I am a tech enthusiast. I like to think myself as a bridge :bridge_at_night: between tech :computer: and medicine :microscope:. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Roberto%20Scardigno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-scardigno/)](https://www.linkedin.com/in/roberto-scardigno/)
 [![Gmail Badge](https://img.shields.io/badge/-r.scardigno.3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.scardigno.3@gmail.com)](mailto:r.scardigno.3@gmail.com)
